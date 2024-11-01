@@ -30,3 +30,13 @@ This repository explores various deep learning models and their applications in 
    git clone https://github.com/karampanah927/DeepLearningModelsExploration.git
    cd DeepLearningModelsExploration
    ```
+2. **Install dependencies**
+ ```bash
+   pip install -r requirements.txt
+ ```
+3. **Open Jupyter Notebooks**
+ ```bash
+   jupyter notebook
+ ```
+## Contributing
+Contributions are welcome! If you have ideas for new models, improvements, or additional datasets, feel free to open an issue or submit a pull request.
